@@ -6,8 +6,9 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" android:background="#E0E0E0">
-
+        android:layout_height="wrap_content"
+        android:background="#E0E0E0" >
+
         <Button
             android:id="@+id/btn_send_accounts"
             android:layout_width="wrap_content"
@@ -43,14 +44,15 @@
                 style="?android:attr/progressBarStyleSmall"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginRight="5dp" android:layout_gravity="right"/>
+                android:layout_gravity="right"
+                android:layout_marginRight="5dp" />
 
             <TextView
                 android:id="@+id/text_wordcount"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="140" android:layout_gravity="right"/>
-
+                android:layout_gravity="right"
+                android:text="140" />
         </LinearLayout>
 
         <Button
@@ -59,14 +61,15 @@
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
             android:text="@string/status_send" />
-
     </RelativeLayout>
-
+
     <EditText
         android:id="@+id/edit_status_text"
         android:layout_width="fill_parent"
         android:layout_height="180dp"
-        android:ems="10" android:layout_margin="4dp" android:gravity="top">
+        android:layout_margin="4dp"
+        android:ems="10"
+        android:gravity="top" >
 
         <requestFocus />
     </EditText>
