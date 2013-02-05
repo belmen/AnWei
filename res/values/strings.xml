@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AnWeiActivity!</string>
+    <string name="app_name">AnWei</string>
+    <string name="dialog_username">用户名：</string>
+    <string name="dialog_password">密码：</string>
+    <string name="dialog_hint_username">请输入用户名</string>
+    <string name="dialog_hint_password">请输入密码</string>
+    <string name="add_account">添加账号</string>
+    <string name="status_login">登录中，请稍候…</string>
+    <string name="title_discription">Title image</string>
+    <string name="menuitem_config">设置</string>
+    <string name="menuitem_exit">退出</string>
+    <string name="btn_refresh">刷新</string>
+    <string name="btn_account">账号</string>
+    <string name="status_send">发送</string>
+    <string name="new_status">新消息</string>
+    <string name="send_new_status">发送新消息</string>
+    <string name="add_pic">图片</string>
+    <string name="msg_loading_webpage">网页加载中，请稍候……</string>
+
+</resources>

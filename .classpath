@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/belmen/anwei/http/Parameter.java|com/belmen/anwei/http/ParameterList.java|com/belmen/anwei/weibo/AbstractWeibo.java|com/belmen/anwei/weibo/logger/WeiboLoggerConfig.java|com/belmen/anwei/oauth/AbstractOAuthSigner.java|com/belmen/anwei/weibo/api/WeiboApi.java|com/belmen/anwei/weibo/WeiboCreator.java|com/belmen/anwei/weibo/WeiboException.java|com/belmen/anwei/weibo/logger/|com/belmen/anwei/logger/LoginException.java|com/belmen/anwei/oauth/AuthorizationHeaderFactory.java|com/belmen/anwei/ui/UsernamePasswordDialog.java|com/belmen/anwei/http/Parameters.java|com/belmen/anwei/data/Gender.java|com/belmen/anwei/data/builder/|com/belmen/anwei/weibo/factory/NeteaseWeibo1Factory.java|com/belmen/anwei/weibo/factory/SinaWeibo1Factory.java|com/belmen/anwei/weibo/SinaWeibo1.java|com/belmen/anwei/weibo/extractor/SinaWeibo1Extractor.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
